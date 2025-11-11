@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boda", "Boda\Boda.csproj", "{22DF0C1E-B885-4E1F-8D90-00FABECB384E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DF0C1E-B885-4E1F-8D90-00FABECB384E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DF0C1E-B885-4E1F-8D90-00FABECB384E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DF0C1E-B885-4E1F-8D90-00FABECB384E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DF0C1E-B885-4E1F-8D90-00FABECB384E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F91D475-9176-4C72-B22F-D43A016A7598}
+	EndGlobalSection
+EndGlobal
